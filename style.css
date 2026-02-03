@@ -5,9 +5,10 @@ body{
     #active{
         color: red;
     }
-    a {
+
+    /*a {
         color: black;
-    }
+    }*/
     h1 {
         font-size: 60px;
         text-align: center;
